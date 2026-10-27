@@ -91,7 +91,6 @@ These metrics help users evaluate forecast performance and understand the potent
 │   │   └── App.tsx             # Main React dashboard
 │   ├── Dockerfile              # Frontend container configuration
 │   ├── package.json            # Node.js dependencies and scripts
-│   └── tailwind.config.js      # Tailwind CSS configuration
 │
 ├── docker-compose.yml          # Multi-container orchestration
 ├── .gitignore                  # Excludes generated and sensitive files
